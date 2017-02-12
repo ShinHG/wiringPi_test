@@ -10,9 +10,9 @@ int main(){
 	
 	while(1){
 		digitalWrite(LED1, 1);
-		delay(1000);
+		delay(500);
 		digitalWrite(LED1, 0);
-		delay(1000);
+		delay(500);
 	}
 
 	return 0;
